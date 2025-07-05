@@ -5,9 +5,7 @@ This project was created as a job interview task demonstrating the implementatio
 
 ## 🌐 Live Demo
 
-**[View Live Demo](https://navbar-exmaple.netlify.app)** *(Update this URL with your actual Netlify URL)*
-
-> **Note**: If you're experiencing a 404 error, the deployment might still be in progress or there may be a configuration issue.
+**[View Live Demo](https://navbar-exmaple.netlify.app)**
 
 ## 🎯 Project Overview
 
