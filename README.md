@@ -1,3 +1,4 @@
+# [![Netlify Status](https://api.netlify.com/api/v1/badges/ce799d6a-9ea8-48af-b576-12d2cfeb7d3c/deploy-status)](https://app.netlify.com/projects/navbarexmaple/deploys)
 # IBM-Style Responsive Navigation Bar
 
 This project was created as a job interview task demonstrating the implementation of a responsive navigation bar inspired by IBM's homepage design using React.js and CSS.
